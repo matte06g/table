@@ -1,0 +1,55 @@
+{
+  "magazzino": [
+    {
+      "nome": "prosciutto",
+      "tipologia": "carne",
+      "prezzo": 20,
+      "prezzo_vendita": 20,
+      "prezzo_acquisto": 5,
+      "guadagno": 15,
+      "quantita": 46,
+      "img":"https://cdn.britannica.com/26/236426-050-EAF1038B/Slices-of-Italian-prosciutto-crudo-or-jamon.jpg"
+    },
+    {
+      "nome": "biscotti",
+      "tipologia": "snack",
+      "prezzo": 8,
+      "prezzo_vendita": 8,
+      "prezzo_acquisto": 2,
+      "guadagno": 6,
+      "quantita": 68,
+      "img":"https://claudiafornaciari.it/wp-content/uploads/2018/12/biscotti-gocce-cioccolato-5.jpg"
+    },
+    {
+      "nome": "besciamella",
+      "tipologia": "condimento",
+      "prezzo": 6,
+      "prezzo_vendita": 6,
+      "prezzo_acquisto": 3,
+      "guadagno": 3,
+      "quantita": 68,
+      "img":"https://www.ilcucchiaioverde.com/wp-content/uploads/2016/09/Besciamella-8-1080x720.jpg"
+
+    },
+    {
+      "nome": "mela",
+      "tipologia": "frutta",
+      "prezzo": 3,
+      "prezzo_vendita": 3,
+      "prezzo_acquisto": 2,
+      "guadagno": 1,
+      "quantita": 46,
+      "img":"https://www.sceltaresponsabile.it/images/articles/205-205-mela-rossa.jpg"
+    },
+    {
+      "nome": "mela gialla",
+      "tipologia": "frutta",
+      "prezzo": 2,
+      "prezzo_vendita": 2,
+      "prezzo_acquisto": 1,
+      "guadagno": 1,
+      "quantita": 46,
+      "img":"https://thumbs.dreamstime.com/b/mela-gialla-una-65790182.jpg"
+    }
+  ]
+}
